@@ -7,4 +7,4 @@ public class stringrotatedtwoplaces {
         String anti = str1.substring(n1-2)+str1.substring(0,n1-2);
         return (clockwise.equals(str2) || anti.equals(str2));
     }
-    }
+}
