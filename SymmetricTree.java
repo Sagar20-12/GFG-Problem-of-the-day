@@ -1,3 +1,21 @@
+
+
+/*
+class of the node of the tree is as
+class Node{
+    int data;
+    Node left;
+    Node right;
+    Node(int data){
+        this.data = data;
+        left=null;
+        right=null;
+    }
+}
+
+*/
+// complete this function
+// return true/false if the is Symmetric or not
 public class SymmetricTree {
     public static boolean isSymmetric(Node root)
     {
