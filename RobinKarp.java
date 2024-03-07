@@ -1,3 +1,4 @@
+import java.util.*;
 public class RobinKarp {
     ArrayList<Integer> search(String pattern, String text)
     {
