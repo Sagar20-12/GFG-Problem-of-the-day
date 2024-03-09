@@ -1,3 +1,4 @@
+import java.util.*;
 class RemoveAllDuplicates {
     String removeDuplicates(String str) {
         HashMap<Character, Boolean> map = new HashMap<>();
